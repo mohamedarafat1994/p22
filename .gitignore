@@ -1,0 +1,6 @@
+.DS_Store
+/p22/target/
+/p22/target/*
+/target
+target/
+/target/*
